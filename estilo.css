@@ -1,0 +1,27 @@
+h1{text-align: center;background: #ffbb00ee;
+color:white;width:70%;margin:auto}
+
+h2{text-align: left; color:rgba(17, 44, 19, 0.959);
+    width:70%;}
+
+nav a{text-decoration: none; background: #8b7809e8;font-size: 0.8cm;
+font-family: Arial;padding: 0.2cm; text-align: center;color: #ccffcc}
+
+nav{text-align: center; width: 80%;margin: auto}
+
+nav a:hover{background: #0066cc}
+
+img{display: block;margin: auto}
+
+body {
+            background-image: url("imagenes/image.jpg");
+            background-size: cover;        /* Ajusta la imagen a toda la pantalla */
+            background-position: center;   /* Centra la imagen */
+        }
+
+p{color: rgb(232, 247, 23);
+    text-align: left;
+    font-size: 0.6cm;
+    font-family: Arial;
+    background: #e42626cc;
+ }
